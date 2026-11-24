@@ -1,0 +1,104 @@
+IfxScuWdt.o :	../libraries/infineon_libraries/iLLD/TC38A/Tricore/Scu/Std/IfxScuWdt.c
+../libraries/infineon_libraries/iLLD/TC38A/Tricore/Scu/Std/IfxScuWdt.c :
+IfxScuWdt.o :	..\libraries\infineon_libraries\iLLD\TC38A\Tricore\Scu\Std\IfxScuWdt.h
+..\libraries\infineon_libraries\iLLD\TC38A\Tricore\Scu\Std\IfxScuWdt.h :
+IfxScuWdt.o :	"C:\\Users\\liang2281\\Desktop\\project\\kadingcheguosaidai\\Project\\libraries\\infineon_libraries\\iLLD\\TC38A\\Tricore\_Impl\IfxScu_cfg.h"
+"C:\\Users\\liang2281\\Desktop\\project\\kadingcheguosaidai\\Project\\libraries\\infineon_libraries\\iLLD\\TC38A\\Tricore\_Impl\IfxScu_cfg.h" :
+IfxScuWdt.o :	"C:\\Users\\liang2281\\Desktop\\project\\kadingcheguosaidai\\Project\\libraries\\infineon_libraries\\Configurations\Ifx_Cfg.h"
+"C:\\Users\\liang2281\\Desktop\\project\\kadingcheguosaidai\\Project\\libraries\\infineon_libraries\\Configurations\Ifx_Cfg.h" :
+IfxScuWdt.o :	"C:\\Users\\liang2281\\Desktop\\project\\kadingcheguosaidai\\Project\\libraries\\zf_common\zf_common_clock.h"
+"C:\\Users\\liang2281\\Desktop\\project\\kadingcheguosaidai\\Project\\libraries\\zf_common\zf_common_clock.h" :
+IfxScuWdt.o :	"C:\\Users\\liang2281\\Desktop\\project\\kadingcheguosaidai\\Project\\libraries\\zf_common\zf_common_typedef.h"
+"C:\\Users\\liang2281\\Desktop\\project\\kadingcheguosaidai\\Project\\libraries\\zf_common\zf_common_typedef.h" :
+IfxScuWdt.o :	"D:\Software\ADS\AURIX-Studio-1.10.2\tools\Compilers\Tasking_1.1r8\ctc\include\math.h"
+"D:\Software\ADS\AURIX-Studio-1.10.2\tools\Compilers\Tasking_1.1r8\ctc\include\math.h" :
+IfxScuWdt.o :	"D:\Software\ADS\AURIX-Studio-1.10.2\tools\Compilers\Tasking_1.1r8\ctc\include\typeinfo.h"
+"D:\Software\ADS\AURIX-Studio-1.10.2\tools\Compilers\Tasking_1.1r8\ctc\include\typeinfo.h" :
+IfxScuWdt.o :	"D:\Software\ADS\AURIX-Studio-1.10.2\tools\Compilers\Tasking_1.1r8\ctc\include\stdio.h"
+"D:\Software\ADS\AURIX-Studio-1.10.2\tools\Compilers\Tasking_1.1r8\ctc\include\stdio.h" :
+IfxScuWdt.o :	"D:\Software\ADS\AURIX-Studio-1.10.2\tools\Compilers\Tasking_1.1r8\ctc\include\stdarg.h"
+"D:\Software\ADS\AURIX-Studio-1.10.2\tools\Compilers\Tasking_1.1r8\ctc\include\stdarg.h" :
+IfxScuWdt.o :	"D:\Software\ADS\AURIX-Studio-1.10.2\tools\Compilers\Tasking_1.1r8\ctc\include\stdint.h"
+"D:\Software\ADS\AURIX-Studio-1.10.2\tools\Compilers\Tasking_1.1r8\ctc\include\stdint.h" :
+IfxScuWdt.o :	"D:\Software\ADS\AURIX-Studio-1.10.2\tools\Compilers\Tasking_1.1r8\ctc\include\string.h"
+"D:\Software\ADS\AURIX-Studio-1.10.2\tools\Compilers\Tasking_1.1r8\ctc\include\string.h" :
+IfxScuWdt.o :	"D:\Software\ADS\AURIX-Studio-1.10.2\tools\Compilers\Tasking_1.1r8\ctc\include\stdlib.h"
+"D:\Software\ADS\AURIX-Studio-1.10.2\tools\Compilers\Tasking_1.1r8\ctc\include\stdlib.h" :
+IfxScuWdt.o :	"C:\\Users\\liang2281\\Desktop\\project\\kadingcheguosaidai\\Project\\libraries\\infineon_libraries\\iLLD\\TC38A\\Tricore\\Cpu\\Std\ifx_types.h"
+"C:\\Users\\liang2281\\Desktop\\project\\kadingcheguosaidai\\Project\\libraries\\infineon_libraries\\iLLD\\TC38A\\Tricore\\Cpu\\Std\ifx_types.h" :
+IfxScuWdt.o :	"C:\\Users\\liang2281\\Desktop\\project\\kadingcheguosaidai\\Project\\libraries\\infineon_libraries\\Infra\\Platform\Tricore\Compilers\Compilers.h"
+"C:\\Users\\liang2281\\Desktop\\project\\kadingcheguosaidai\\Project\\libraries\\infineon_libraries\\Infra\\Platform\Tricore\Compilers\Compilers.h" :
+IfxScuWdt.o :	"C:\\Users\\liang2281\\Desktop\\project\\kadingcheguosaidai\\Project\\libraries\\infineon_libraries\\Configurations\Ifx_Cfg.h"
+"C:\\Users\\liang2281\\Desktop\\project\\kadingcheguosaidai\\Project\\libraries\\infineon_libraries\\Configurations\Ifx_Cfg.h" :
+IfxScuWdt.o :	"C:\\Users\\liang2281\\Desktop\\project\\kadingcheguosaidai\\Project\\libraries\\infineon_libraries\\Infra\\Platform\Tricore\Compilers\CompilerTasking.h"
+"C:\\Users\\liang2281\\Desktop\\project\\kadingcheguosaidai\\Project\\libraries\\infineon_libraries\\Infra\\Platform\Tricore\Compilers\CompilerTasking.h" :
+IfxScuWdt.o :	"D:\Software\ADS\AURIX-Studio-1.10.2\tools\Compilers\Tasking_1.1r8\ctc\include\stddef.h"
+"D:\Software\ADS\AURIX-Studio-1.10.2\tools\Compilers\Tasking_1.1r8\ctc\include\stddef.h" :
+IfxScuWdt.o :	"C:\\Users\\liang2281\\Desktop\\project\\kadingcheguosaidai\\Project\\libraries\\infineon_libraries\\iLLD\\TC38A\\Tricore\\Cpu\\Std\Platform_Types.h"
+"C:\\Users\\liang2281\\Desktop\\project\\kadingcheguosaidai\\Project\\libraries\\infineon_libraries\\iLLD\\TC38A\\Tricore\\Cpu\\Std\Platform_Types.h" :
+IfxScuWdt.o :	"C:\\Users\\liang2281\\Desktop\\project\\kadingcheguosaidai\\Project\\libraries\\infineon_libraries\\iLLD\\TC38A\\Tricore\\Cpu\\Std\Ifx_TypesTasking.h"
+"C:\\Users\\liang2281\\Desktop\\project\\kadingcheguosaidai\\Project\\libraries\\infineon_libraries\\iLLD\\TC38A\\Tricore\\Cpu\\Std\Ifx_TypesTasking.h" :
+IfxScuWdt.o :	"C:\\Users\\liang2281\\Desktop\\project\\kadingcheguosaidai\\Project\\libraries\\infineon_libraries\\iLLD\\TC38A\\Tricore\\Cpu\\Std\PLATFORM_TYPES.H"
+"C:\\Users\\liang2281\\Desktop\\project\\kadingcheguosaidai\\Project\\libraries\\infineon_libraries\\iLLD\\TC38A\\Tricore\\Cpu\\Std\PLATFORM_TYPES.H" :
+IfxScuWdt.o :	"C:\\Users\\liang2281\\Desktop\\project\\kadingcheguosaidai\\Project\\libraries\\infineon_libraries\\Infra\\Sfr\\TC38A\\_Reg\IfxScu_bf.h"
+"C:\\Users\\liang2281\\Desktop\\project\\kadingcheguosaidai\\Project\\libraries\\infineon_libraries\\Infra\\Sfr\\TC38A\\_Reg\IfxScu_bf.h" :
+IfxScuWdt.o :	"C:\\Users\\liang2281\\Desktop\\project\\kadingcheguosaidai\\Project\\libraries\\infineon_libraries\\iLLD\\TC38A\\Tricore\Cpu\Std\Ifx_Types.h"
+"C:\\Users\\liang2281\\Desktop\\project\\kadingcheguosaidai\\Project\\libraries\\infineon_libraries\\iLLD\\TC38A\\Tricore\Cpu\Std\Ifx_Types.h" :
+IfxScuWdt.o :	"C:\\Users\\liang2281\\Desktop\\project\\kadingcheguosaidai\\Project\\libraries\\infineon_libraries\\Infra\\Sfr\\TC38A\\_Reg\IfxScu_reg.h"
+"C:\\Users\\liang2281\\Desktop\\project\\kadingcheguosaidai\\Project\\libraries\\infineon_libraries\\Infra\\Sfr\\TC38A\\_Reg\IfxScu_reg.h" :
+IfxScuWdt.o :	"C:\\Users\\liang2281\\Desktop\\project\\kadingcheguosaidai\\Project\\libraries\\infineon_libraries\\Infra\\Sfr\\TC38A\\_Reg\IfxScu_regdef.h"
+"C:\\Users\\liang2281\\Desktop\\project\\kadingcheguosaidai\\Project\\libraries\\infineon_libraries\\Infra\\Sfr\\TC38A\\_Reg\IfxScu_regdef.h" :
+IfxScuWdt.o :	"C:\\Users\\liang2281\\Desktop\\project\\kadingcheguosaidai\\Project\\libraries\\infineon_libraries\\Infra\\Sfr\\TC38A\\_Reg\Ifx_TypesReg.h"
+"C:\\Users\\liang2281\\Desktop\\project\\kadingcheguosaidai\\Project\\libraries\\infineon_libraries\\Infra\\Sfr\\TC38A\\_Reg\Ifx_TypesReg.h" :
+IfxScuWdt.o :	..\libraries\infineon_libraries\iLLD\TC38A\Tricore\Scu\Std\IfxScuWdt.asm.h
+..\libraries\infineon_libraries\iLLD\TC38A\Tricore\Scu\Std\IfxScuWdt.asm.h :
+IfxScuWdt.o :	"C:\\Users\\liang2281\\Desktop\\project\\kadingcheguosaidai\\Project\\libraries\\infineon_libraries\\iLLD\\TC38A\\Tricore\Cpu\Std\IfxCpu_Intrinsics.h"
+"C:\\Users\\liang2281\\Desktop\\project\\kadingcheguosaidai\\Project\\libraries\\infineon_libraries\\iLLD\\TC38A\\Tricore\Cpu\Std\IfxCpu_Intrinsics.h" :
+IfxScuWdt.o :	"C:\\Users\\liang2281\\Desktop\\project\\kadingcheguosaidai\\Project\\libraries\\infineon_libraries\\iLLD\\TC38A\\Tricore\Cpu\Std\Ifx_Types.h"
+"C:\\Users\\liang2281\\Desktop\\project\\kadingcheguosaidai\\Project\\libraries\\infineon_libraries\\iLLD\\TC38A\\Tricore\Cpu\Std\Ifx_Types.h" :
+IfxScuWdt.o :	"C:\\Users\\liang2281\\Desktop\\project\\kadingcheguosaidai\\Project\\libraries\\infineon_libraries\\iLLD\\TC38A\\Tricore\Cpu\Std\IfxCpu_IntrinsicsTasking.h"
+"C:\\Users\\liang2281\\Desktop\\project\\kadingcheguosaidai\\Project\\libraries\\infineon_libraries\\iLLD\\TC38A\\Tricore\Cpu\Std\IfxCpu_IntrinsicsTasking.h" :
+IfxScuWdt.o :	"C:\\Users\\liang2281\\Desktop\\project\\kadingcheguosaidai\\Project\\libraries\\infineon_libraries\\iLLD\\TC38A\\Tricore\Cpu\Std\Ifx_Types.h"
+"C:\\Users\\liang2281\\Desktop\\project\\kadingcheguosaidai\\Project\\libraries\\infineon_libraries\\iLLD\\TC38A\\Tricore\Cpu\Std\Ifx_Types.h" :
+IfxScuWdt.o :	"C:\\Users\\liang2281\\Desktop\\project\\kadingcheguosaidai\\Project\\libraries\\infineon_libraries\\iLLD\\TC38A\\Tricore\Cpu\Std\IfxCpu.h"
+"C:\\Users\\liang2281\\Desktop\\project\\kadingcheguosaidai\\Project\\libraries\\infineon_libraries\\iLLD\\TC38A\\Tricore\Cpu\Std\IfxCpu.h" :
+IfxScuWdt.o :	"C:\\Users\\liang2281\\Desktop\\project\\kadingcheguosaidai\\Project\\libraries\\infineon_libraries\\iLLD\\TC38A\\Tricore\_Impl\IfxCpu_cfg.h"
+"C:\\Users\\liang2281\\Desktop\\project\\kadingcheguosaidai\\Project\\libraries\\infineon_libraries\\iLLD\\TC38A\\Tricore\_Impl\IfxCpu_cfg.h" :
+IfxScuWdt.o :	"C:\\Users\\liang2281\\Desktop\\project\\kadingcheguosaidai\\Project\\libraries\\infineon_libraries\\iLLD\\TC38A\\Tricore\Cpu\Std\IfxCpu_Intrinsics.h"
+"C:\\Users\\liang2281\\Desktop\\project\\kadingcheguosaidai\\Project\\libraries\\infineon_libraries\\iLLD\\TC38A\\Tricore\Cpu\Std\IfxCpu_Intrinsics.h" :
+IfxScuWdt.o :	"C:\\Users\\liang2281\\Desktop\\project\\kadingcheguosaidai\\Project\\libraries\\infineon_libraries\\Infra\\Sfr\\TC38A\\_Reg\IfxCpu_reg.h"
+"C:\\Users\\liang2281\\Desktop\\project\\kadingcheguosaidai\\Project\\libraries\\infineon_libraries\\Infra\\Sfr\\TC38A\\_Reg\IfxCpu_reg.h" :
+IfxScuWdt.o :	"C:\\Users\\liang2281\\Desktop\\project\\kadingcheguosaidai\\Project\\libraries\\infineon_libraries\\Infra\\Sfr\\TC38A\\_Reg\IfxCpu_regdef.h"
+"C:\\Users\\liang2281\\Desktop\\project\\kadingcheguosaidai\\Project\\libraries\\infineon_libraries\\Infra\\Sfr\\TC38A\\_Reg\IfxCpu_regdef.h" :
+IfxScuWdt.o :	"C:\\Users\\liang2281\\Desktop\\project\\kadingcheguosaidai\\Project\\libraries\\infineon_libraries\\Infra\\Sfr\\TC38A\\_Reg\IfxSrc_reg.h"
+"C:\\Users\\liang2281\\Desktop\\project\\kadingcheguosaidai\\Project\\libraries\\infineon_libraries\\Infra\\Sfr\\TC38A\\_Reg\IfxSrc_reg.h" :
+IfxScuWdt.o :	"C:\\Users\\liang2281\\Desktop\\project\\kadingcheguosaidai\\Project\\libraries\\infineon_libraries\\Infra\\Sfr\\TC38A\\_Reg\IfxSrc_regdef.h"
+"C:\\Users\\liang2281\\Desktop\\project\\kadingcheguosaidai\\Project\\libraries\\infineon_libraries\\Infra\\Sfr\\TC38A\\_Reg\IfxSrc_regdef.h" :
+IfxScuWdt.o :	"C:\\Users\\liang2281\\Desktop\\project\\kadingcheguosaidai\\Project\\libraries\\infineon_libraries\\Infra\\Sfr\\TC38A\\_Reg\IfxStm_reg.h"
+"C:\\Users\\liang2281\\Desktop\\project\\kadingcheguosaidai\\Project\\libraries\\infineon_libraries\\Infra\\Sfr\\TC38A\\_Reg\IfxStm_reg.h" :
+IfxScuWdt.o :	"C:\\Users\\liang2281\\Desktop\\project\\kadingcheguosaidai\\Project\\libraries\\infineon_libraries\\Infra\\Sfr\\TC38A\\_Reg\IfxStm_regdef.h"
+"C:\\Users\\liang2281\\Desktop\\project\\kadingcheguosaidai\\Project\\libraries\\infineon_libraries\\Infra\\Sfr\\TC38A\\_Reg\IfxStm_regdef.h" :
+IfxScuWdt.o :	"C:\\Users\\liang2281\\Desktop\\project\\kadingcheguosaidai\\Project\\libraries\\infineon_libraries\\Service\\CpuGeneric\_Utilities\Ifx_Assert.h"
+"C:\\Users\\liang2281\\Desktop\\project\\kadingcheguosaidai\\Project\\libraries\\infineon_libraries\\Service\\CpuGeneric\_Utilities\Ifx_Assert.h" :
+IfxScuWdt.o :	"C:\\Users\\liang2281\\Desktop\\project\\kadingcheguosaidai\\Project\\libraries\\infineon_libraries\\iLLD\\TC38A\\Tricore\Scu\Std\IfxScuWdt.h"
+"C:\\Users\\liang2281\\Desktop\\project\\kadingcheguosaidai\\Project\\libraries\\infineon_libraries\\iLLD\\TC38A\\Tricore\Scu\Std\IfxScuWdt.h" :
+IfxScuWdt.o :	"C:\\Users\\liang2281\\Desktop\\project\\kadingcheguosaidai\\Project\\libraries\\infineon_libraries\\iLLD\\TC38A\\Tricore\Scu\Std\IfxScuCcu.h"
+"C:\\Users\\liang2281\\Desktop\\project\\kadingcheguosaidai\\Project\\libraries\\infineon_libraries\\iLLD\\TC38A\\Tricore\Scu\Std\IfxScuCcu.h" :
+IfxScuWdt.o :	"C:\\Users\\liang2281\\Desktop\\project\\kadingcheguosaidai\\Project\\libraries\\infineon_libraries\\iLLD\\TC38A\\Tricore\Cpu\Std\IfxCpu.h"
+"C:\\Users\\liang2281\\Desktop\\project\\kadingcheguosaidai\\Project\\libraries\\infineon_libraries\\iLLD\\TC38A\\Tricore\Cpu\Std\IfxCpu.h" :
+IfxScuWdt.o :	"C:\\Users\\liang2281\\Desktop\\project\\kadingcheguosaidai\\Project\\libraries\\infineon_libraries\\iLLD\\TC38A\\Tricore\_PinMap\IfxScu_PinMap.h"
+"C:\\Users\\liang2281\\Desktop\\project\\kadingcheguosaidai\\Project\\libraries\\infineon_libraries\\iLLD\\TC38A\\Tricore\_PinMap\IfxScu_PinMap.h" :
+IfxScuWdt.o :	"C:\\Users\\liang2281\\Desktop\\project\\kadingcheguosaidai\\Project\\libraries\\infineon_libraries\\iLLD\\TC38A\\Tricore\Port\Std\IfxPort.h"
+"C:\\Users\\liang2281\\Desktop\\project\\kadingcheguosaidai\\Project\\libraries\\infineon_libraries\\iLLD\\TC38A\\Tricore\Port\Std\IfxPort.h" :
+IfxScuWdt.o :	"C:\\Users\\liang2281\\Desktop\\project\\kadingcheguosaidai\\Project\\libraries\\infineon_libraries\\iLLD\\TC38A\\Tricore\_Impl\IfxPort_cfg.h"
+"C:\\Users\\liang2281\\Desktop\\project\\kadingcheguosaidai\\Project\\libraries\\infineon_libraries\\iLLD\\TC38A\\Tricore\_Impl\IfxPort_cfg.h" :
+IfxScuWdt.o :	"C:\\Users\\liang2281\\Desktop\\project\\kadingcheguosaidai\\Project\\libraries\\infineon_libraries\\iLLD\\TC38A\\Tricore\Cpu\Std\IfxCpu_Intrinsics.h"
+"C:\\Users\\liang2281\\Desktop\\project\\kadingcheguosaidai\\Project\\libraries\\infineon_libraries\\iLLD\\TC38A\\Tricore\Cpu\Std\IfxCpu_Intrinsics.h" :
+IfxScuWdt.o :	"C:\\Users\\liang2281\\Desktop\\project\\kadingcheguosaidai\\Project\\libraries\\infineon_libraries\\Infra\\Sfr\\TC38A\\_Reg\IfxPort_reg.h"
+"C:\\Users\\liang2281\\Desktop\\project\\kadingcheguosaidai\\Project\\libraries\\infineon_libraries\\Infra\\Sfr\\TC38A\\_Reg\IfxPort_reg.h" :
+IfxScuWdt.o :	"C:\\Users\\liang2281\\Desktop\\project\\kadingcheguosaidai\\Project\\libraries\\infineon_libraries\\Infra\\Sfr\\TC38A\\_Reg\IfxPort_regdef.h"
+"C:\\Users\\liang2281\\Desktop\\project\\kadingcheguosaidai\\Project\\libraries\\infineon_libraries\\Infra\\Sfr\\TC38A\\_Reg\IfxPort_regdef.h" :
+IfxScuWdt.o :	"C:\\Users\\liang2281\\Desktop\\project\\kadingcheguosaidai\\Project\\libraries\\infineon_libraries\\Infra\\Sfr\\TC38A\\_Reg\IfxSmu_reg.h"
+"C:\\Users\\liang2281\\Desktop\\project\\kadingcheguosaidai\\Project\\libraries\\infineon_libraries\\Infra\\Sfr\\TC38A\\_Reg\IfxSmu_reg.h" :
+IfxScuWdt.o :	"C:\\Users\\liang2281\\Desktop\\project\\kadingcheguosaidai\\Project\\libraries\\infineon_libraries\\Infra\\Sfr\\TC38A\\_Reg\IfxSmu_regdef.h"
+"C:\\Users\\liang2281\\Desktop\\project\\kadingcheguosaidai\\Project\\libraries\\infineon_libraries\\Infra\\Sfr\\TC38A\\_Reg\IfxSmu_regdef.h" :
